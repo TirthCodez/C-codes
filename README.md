@@ -1,0 +1,1 @@
+This is repository where i will be adding my c related works..Also there will be other files which are created because c files makes temporary files too for compiling so dont bother about it much..You can just check files with c exntension for codes.
